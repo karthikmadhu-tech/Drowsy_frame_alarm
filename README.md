@@ -2,7 +2,7 @@
 
 Drowsy Frame is a Python project that uses computer vision and facial landmarks detection to monitor and detect drowsiness in a person's eyes while they are in front of a webcam. When the program detects signs of drowsiness, it triggers an alert to notify the user.
 
-## Prerequisites
+## Prerequisites 
 
 Before you can run the Drowsy Frame project, make sure you have the following dependencies installed:
 
